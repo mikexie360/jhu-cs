@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "b4db584036f4f6ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf0f4660dbf837d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51cd1c11f5bf0aff",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 10/Quiz10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Quiz10"
+            }
+          },
+          {
+            "id": "a4071c0f34a08705",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70e2170cc381ea36",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a35c50b03a953ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7efd2748a775a849",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac4c1682de4ba698",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22f75ad44e5226b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e260518676c1d5aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f243ecd5083d11a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4e212580f5ad571",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 11/Quiz11.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Quiz11"
+            }
+          },
+          {
+            "id": "474387594ad23046",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 11/Quiz11.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quiz11"
+            }
+          },
+          {
+            "id": "e49909c4ea91991e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f46b8b94226d7e72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 11/Quiz11.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quiz11"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7efd2748a775a849",
+  "lastOpenFiles": [
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/Module 13G.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/Module 13F.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/Module 13E.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/assets/Pasted image 20241125163659.png",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/assets/Pasted image 20241125135423.png",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/Module 13D.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/assets/Pasted image 20241125133307.png",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/assets/Pasted image 20241125133125.png",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/assets/Pasted image 20241125115151.png",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/Module 13C.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/Module 13B.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/Module 13A.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/videos",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/slides",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13/assets",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 13",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 12/Module 12 - Quiz_ EN.605.601.81.FA24 Foundations of Software Engineering.pdf",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 12/videos/Module12H_default.mp4",
+    "Mike Xie's Notebook.md",
+    "2024-10-11.md",
+    "Templates",
+    "My Tech Journey/Profile picture.png",
+    "My Tech Journey/My Tech Jouney.md",
+    "My Tech Journey",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Team Charter/assets/Team Logo.png",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/slides/9J ooad2 10.pdf",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/videos/9O ooad2 15_default.mp4",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 2/assets/Unified Process Life Cycle Model.png",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 2/assets/Staged Delivery Model.png",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 2/assets/Spiral Model.png",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Team Charter/Team Charter.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9O.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9N.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9M.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9L.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9k.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9J.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9H.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9G.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9I.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9F.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9E.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9D.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9C.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9B.md",
+    "John Hopkins University/MSCS/EN.605.601.81.FA24/Module 9/Module9A.md"
+  ]
+}

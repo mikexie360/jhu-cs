@@ -1,0 +1,57 @@
+## Estimation Techniques
+- Expert Judgment
+	- Relies on the experience of one or more individuals for the project at hand.
+	- Works when there are actual experts and historical information, and structured process is used.
+	- When it is documented and communicated to project stakeholders.
+- Structured Group
+	- Multiple estimators, who are typically experts form the estimating team, and they follow a structured process in arriving at their estimates.
+	- Delphi method.
+		- Developed by RAND corp, for projects that have never been used
+		- Panel of experts, a coordinator and a set of use.
+		- Coordinator provides background information,
+		- Estimator comes up with an estimate anonymously. document their rationale
+		- The cannot consult each other, but can with the coordinator.
+		- They keep doing this until the estimates matches up, and a reasonable range can be formed by the coordinator.
+		- Because of the process, the estimation is repeatable compared to other estimation techniques.
+		- ![[Delphi Method.png]]
+- Rule of Thumb
+	- Making a size estimate, using total lines of code expected, and then calculating how many lines of code a programmer and do a week
+	- Rule of thumb estimates do not scale between different project sizes.
+- Algorithmic
+	- Using calculations or formulas for estimating software product size and then provide an estimate of the effort cost or product schedule.
+	- Historical data must be used to calibrate the models.
+	- If historical data is not available. The resulting estimate may be 100 of magnitudes off.
+	- Cheap and quick
+	- Function Point Model
+		- Measure the number of functionality a product needed needed
+		- Developed by Allen Alberich at IBM
+		- External Inputs, External Outputs, Internal Logical Files, External Inquiries and External Interfaces
+	- COCOMO 2 Model
+		- Application-Composition Model
+			- Estimating prototyping projects
+		- Early Design Model
+			- Estimating projects once the requirements set is established
+			- Effort Nominal is estimated in Months
+			- Size is thousand lines of code.
+			- B is based on some product characteristics
+			- W is process attributes.
+			- Effort Nominal = 2.94 * Size ^ B
+			- B = 1.01 + .01* Sum(P1,P5)
+			- Effort Adjusted = Effort Nominal * Product(W1, W7)
+			- Duration = 3 * Effort Adjusted ^ (.33 + .2*(B-1.01)
+		- Post-Architectural Model
+			- Most detailed model and can be used when the design architecture is established.
+		- Reuse Model
+			- Used in projects that have reusable software components.
+- Activity Based
+	- Needs a work breakdown structure
+	- Task Identification
+		- List of all tasks,
+	- Effort/Cost Estimation
+		- Estimate the tasks in person hours
+	- Task Sequencing
+		- Find task dependencies to find the sequencing of tasks
+	- Schedule Information
+		- Task, dependencies and effort estimates, and staff resources to complete the project.
+	- Shown to be the most accurate and required to be used in most contracts.
+	- Disadvantages is that it can be time consuming, but projects can be broken down into sub projects.

@@ -1,0 +1,22 @@
+## Structure Modeling
+
+- Hierarchical
+	- Graph with no cycles
+	- Lattice Structure
+	- Dependencies all flow in the same direction
+- Layered
+	- Base Layer - Do basic specific things.
+		- OS, Languages
+	- Common Services - Broad reuse potential
+		- Message Queueing
+		- Database accessing
+	- Domain Specific - Implementing specific domains
+		- Banking
+		- Insurance
+	- Application Layer - Represent the system that is built
+		- A Complete Application
+- Network
+	- Can't be structured in layered and can have cycles
+	- UML models, nodes and edges, activity diagrams
+	- The internet is an example of a network.
+- 

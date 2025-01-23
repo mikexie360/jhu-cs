@@ -1,0 +1,31 @@
+## Analysis and Design Principles
+
+- Modularity
+	- Making things more manageable
+	- Breaking things into pieces
+	- Decomposition
+		- Breaking things into smaller parts
+	- Composition
+		- Combining modules into something bigger.
+	- Benefits
+		- Reduces complexity
+		- Results in easier implementation
+		- Facilitates change
+		- Encourage parallel development
+	- Cost of the system increases complexity and cost exponentially
+	- Module
+		- Component
+		- Class
+		- Method
+		- Package
+		- Subsystem
+	- Connected by an interface
+	- High Cohesion
+		- How close a module itself works together
+	- Low Coupling
+		- Standardized interfaces
+		- reduces overall complexity of the system
+- Abstraction
+	- Model the essential parts of something
+- Encapsulation
+	- Separation of information into specification and implementation
